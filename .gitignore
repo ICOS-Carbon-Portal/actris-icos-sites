@@ -1,0 +1,5 @@
+# Source documents (Word drafts with reviewer comments) — kept locally, not in git
+source/
+
+# Word lock files
+~$*

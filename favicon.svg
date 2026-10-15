@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Three nested arcs: SITES (land), ICOS (carbon), ACTRIS (atmosphere) -->
+  <rect width="32" height="32" rx="7" fill="#1b1a3d"/>
+  <g fill="none" stroke-width="3.2" stroke-linecap="round">
+    <path d="M3.5 25 A12.5 12.5 0 0 1 28.5 25" stroke="#3fb8c0"/>
+    <path d="M8 25 A8 8 0 0 1 24 25" stroke="#e6195f"/>
+    <path d="M12.5 25 A3.5 3.5 0 0 1 19.5 25" stroke="#6cb33f"/>
+  </g>
+</svg>
